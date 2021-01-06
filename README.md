@@ -49,7 +49,7 @@ http://github.com - automatic!
 ![best-gaming-profile-pictures-ever-8](https://user-images.githubusercontent.com/63826419/103737492-4bc6c400-502d-11eb-95e5-389c84c15a18.jpg)
 
 # Images from website
-# copy the image address and paste it here
+# -copy the image address and paste it here
 ![sunset](http://www.androidguys.com/wp-content/uploads/2016/01/summer-sunset-293095.jpg)
 
 # Tables
