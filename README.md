@@ -34,6 +34,11 @@ As Kanye West said:
   ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
+# Inline Code
+
+I think you should use an
+`<addr>` element here instead.
+
 # Link
 
 http://github.com - automatic!
