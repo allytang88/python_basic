@@ -43,6 +43,7 @@ I think you should use an
 
 http://github.com - automatic!
 [GitHub](http://github.com)
+[mytext](http://google.com)
 
 # Tables
 
